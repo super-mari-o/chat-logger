@@ -9,3 +9,4 @@ logging chat
 1. inject file
 1. edit file
 1. copy index.js to editing file
+1. save & close
