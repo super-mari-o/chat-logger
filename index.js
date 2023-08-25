@@ -30,6 +30,7 @@
 				backgroundColor: 'rgba(0, 0, 0, 0.1)',
 				overflow: 'auto',
 				padding: '0.5em',
+				userSelect: 'none',
 			});
 			this.count = 0;
 		}
